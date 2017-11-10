@@ -1,0 +1,11 @@
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 0\Lucas Program 1\bin\Debug\netcoreapp2.0\Lucas Program 0.deps.json
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 0\Lucas Program 1\bin\Debug\netcoreapp2.0\Lucas Program 0.runtimeconfig.json
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 0\Lucas Program 1\bin\Debug\netcoreapp2.0\Lucas Program 0.runtimeconfig.dev.json
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 0\Lucas Program 1\bin\Debug\netcoreapp2.0\Lucas Program 0.dll
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 0\Lucas Program 1\bin\Debug\netcoreapp2.0\Lucas Program 0.pdb
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 0\Lucas Program 1\obj\Debug\netcoreapp2.0\Lucas Program 0.csprojResolveAssemblyReference.cache
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 0\Lucas Program 1\obj\Debug\netcoreapp2.0\Lucas Program 0.csproj.CoreCompileInputs.cache
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 0\Lucas Program 1\obj\Debug\netcoreapp2.0\Lucas Program 0.AssemblyInfoInputs.cache
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 0\Lucas Program 1\obj\Debug\netcoreapp2.0\Lucas Program 0.AssemblyInfo.cs
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 0\Lucas Program 1\obj\Debug\netcoreapp2.0\Lucas Program 0.dll
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 0\Lucas Program 1\obj\Debug\netcoreapp2.0\Lucas Program 0.pdb
