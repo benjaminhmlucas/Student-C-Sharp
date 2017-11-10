@@ -1,0 +1,7 @@
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 1\PatientData\bin\Debug\PatientData.exe.config
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 1\PatientData\bin\Debug\PatientData.exe
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 1\PatientData\bin\Debug\PatientData.pdb
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 1\PatientData\obj\Debug\PatientData.csprojResolveAssemblyReference.cache
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 1\PatientData\obj\Debug\PatientData.csproj.CoreCompileInputs.cache
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 1\PatientData\obj\Debug\PatientData.exe
+E:\trident tech\CPT 244 Data Structures\Programs\Lucas Program 1\PatientData\obj\Debug\PatientData.pdb
